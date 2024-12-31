@@ -1,0 +1,22 @@
+{
+  "short_name": "Pombal_Buscas",
+  "name": "Pombal Buscas",
+  "icons": [
+    {
+      "src": "https://static.vecteezy.com/ti/vetor-gratis/p1/6626431-simple-store-icone-editavel-48-pixel-gratis-vetor.jpg",
+      "type": "image/jpg",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://static.vecteezy.com/ti/vetor-gratis/p1/6626431-simple-store-icone-editavel-48-pixel-gratis-vetor.jpg",
+      "type": "image/jpg",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://static.vecteezy.com/ti/vetor-gratis/p1/6626431-simple-store-icone-editavel-48-pixel-gratis-vetor.jpg",
+      "type": "image/´jpg",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "https://seligapombal.netlify.app/?pwa_launcher=true"
+}
